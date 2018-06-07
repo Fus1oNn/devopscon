@@ -3,7 +3,7 @@ package org.devopscon.maven.demo;
 public class HelloHandler {
 
 	public String sayHello() {
-		String hello = "Hello Tea!!!! Jel te muci malo vault a?";
+		String hello = "aiii ae ae ae";
 		return hello;
 	}
 
